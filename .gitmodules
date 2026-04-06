@@ -1,0 +1,3 @@
+[submodule "agentic-workflow"]
+	path = .tools/agentic-workflow
+	url = https://github.com/3urningChrome/Agentic-Workflow

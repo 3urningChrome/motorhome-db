@@ -1,0 +1,2 @@
+# /tests/unit/
+# Fast, isolated tests — no external dependencies, no network.

@@ -1,0 +1,349 @@
+[
+  {
+    "id": "winnebago-ekko",
+    "manufacturer": "Winnebago",
+    "modelName": "EKKO",
+    "series": "EKKO",
+    "vehicleClass": "Class C",
+    "bodyType": "Motorized",
+    "regions": ["North America"],
+    "production": {
+      "firstModelYear": 2022,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [2022, 2023, 2024, 2025, 2026]
+    },
+    "trims": [
+      { "code": "22A", "name": "EKKO 22A" },
+      { "code": "23B", "name": "EKKO 23B" }
+    ],
+    "specRange": {
+      "lengthFt": { "min": 23.0, "max": 24.5 },
+      "sleeping": { "min": 2, "max": 4 },
+      "msrpUsd": { "min": 199000, "max": 239000 },
+      "gvwrLb": { "min": 10360, "max": 11000 }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": ["Gasoline"],
+      "driveTypes": ["AWD"],
+      "engineFamilies": ["3.5L EcoBoost V6"]
+    },
+    "featureTags": ["wet bath", "off-grid", "all-season", "gear garage", "induction"],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": ["standard", "optional"],
+        "standardYears": [2025, 2026],
+        "optionalYears": [2022, 2023, 2024],
+        "firstOfferedYear": 2022,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["22A", "23B"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "lithium-battery",
+        "label": "Lithium Battery Bank",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": ["standard", "optional"],
+        "standardYears": [2024, 2025, 2026],
+        "optionalYears": [2022, 2023],
+        "firstOfferedYear": 2022,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["22A", "23B"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": ["standard"],
+        "standardYears": [2022, 2023, 2024, 2025, 2026],
+        "optionalYears": [],
+        "firstOfferedYear": 2022,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["22A", "23B"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": true,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": ["https://www.winnebago.com"],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "thor-sequence",
+    "manufacturer": "Thor Motor Coach",
+    "modelName": "Sequence",
+    "series": "Sequence",
+    "vehicleClass": "Class B",
+    "bodyType": "Motorized",
+    "regions": ["North America"],
+    "production": {
+      "firstModelYear": 2021,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [2021, 2022, 2023, 2024, 2025, 2026]
+    },
+    "trims": [
+      { "code": "20L", "name": "Sequence 20L" },
+      { "code": "20A", "name": "Sequence 20A" }
+    ],
+    "specRange": {
+      "lengthFt": { "min": 20.9, "max": 21.3 },
+      "sleeping": { "min": 2, "max": 2 },
+      "msrpUsd": { "min": 139000, "max": 175000 },
+      "gvwrLb": { "min": 8900, "max": 9350 }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": ["Gasoline"],
+      "driveTypes": ["FWD"],
+      "engineFamilies": ["3.6L Pentastar V6"]
+    },
+    "featureTags": ["wet bath", "camper van", "induction", "compact"],
+    "optionAvailability": [
+      {
+        "optionKey": "induction-cooktop",
+        "label": "Induction Cooktop",
+        "category": "kitchen",
+        "everOffered": true,
+        "offeredAs": ["standard"],
+        "standardYears": [2023, 2024, 2025, 2026],
+        "optionalYears": [],
+        "firstOfferedYear": 2023,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["20L", "20A"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": ["optional", "package_only"],
+        "standardYears": [],
+        "optionalYears": [2021, 2022, 2023, 2024, 2025, 2026],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["20L", "20A"],
+        "regions": ["North America"],
+        "requiredPackageKeys": ["off-grid-package"],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": ["standard"],
+        "standardYears": [2021, 2022, 2023, 2024, 2025, 2026],
+        "optionalYears": [],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["20L", "20A"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": ["https://www.thormotorcoach.com"],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "entegra-vision-xl",
+    "manufacturer": "Entegra Coach",
+    "modelName": "Vision XL",
+    "series": "Vision XL",
+    "vehicleClass": "Class A",
+    "bodyType": "Motorized",
+    "regions": ["North America"],
+    "production": {
+      "firstModelYear": 2023,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [2023, 2024, 2025, 2026]
+    },
+    "trims": [
+      { "code": "34G", "name": "Vision XL 34G" },
+      { "code": "36A", "name": "Vision XL 36A" }
+    ],
+    "specRange": {
+      "lengthFt": { "min": 35.0, "max": 38.2 },
+      "sleeping": { "min": 6, "max": 8 },
+      "msrpUsd": { "min": 210000, "max": 280000 },
+      "gvwrLb": { "min": 22000, "max": 24000 }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": ["Gasoline"],
+      "driveTypes": ["RWD"],
+      "engineFamilies": ["7.3L V8"]
+    },
+    "featureTags": ["auto leveling", "washer-dryer prep", "king bed", "family"],
+    "optionAvailability": [
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": ["standard"],
+        "standardYears": [2023, 2024, 2025, 2026],
+        "optionalYears": [],
+        "firstOfferedYear": 2023,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["34G", "36A"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "washer-dryer-prep",
+        "label": "Washer Dryer Prep",
+        "category": "interior",
+        "everOffered": true,
+        "offeredAs": ["optional"],
+        "standardYears": [],
+        "optionalYears": [2024, 2025, 2026],
+        "firstOfferedYear": 2024,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["36A"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": ["optional"],
+        "standardYears": [],
+        "optionalYears": [2023, 2024, 2025, 2026],
+        "firstOfferedYear": 2023,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["34G", "36A"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": true
+    },
+    "sources": ["https://www.entegra.com"],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "grand-design-imagine-2970rl",
+    "manufacturer": "Grand Design",
+    "modelName": "Imagine 2970RL",
+    "series": "Imagine",
+    "vehicleClass": "Travel Trailer",
+    "bodyType": "Towable",
+    "regions": ["North America"],
+    "production": {
+      "firstModelYear": 2019,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+    },
+    "trims": [
+      { "code": "2970RL", "name": "Imagine 2970RL" }
+    ],
+    "specRange": {
+      "lengthFt": { "min": 33.5, "max": 34.1 },
+      "sleeping": { "min": 4, "max": 4 },
+      "msrpUsd": { "min": 45900, "max": 68400 },
+      "gvwrLb": { "min": 8495, "max": 8995 }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": ["Tow Vehicle Dependent"],
+      "driveTypes": ["Towable"],
+      "engineFamilies": []
+    },
+    "featureTags": ["rear living", "kitchen island", "dry bath", "solar prep"],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": ["standard"],
+        "standardYears": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["2970RL"],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "heated-underbelly",
+        "label": "Heated Enclosed Underbelly",
+        "category": "hvac",
+        "everOffered": true,
+        "offeredAs": ["package_only"],
+        "standardYears": [],
+        "optionalYears": [2021, 2022, 2023, 2024, 2025, 2026],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": ["2970RL"],
+        "regions": ["North America"],
+        "requiredPackageKeys": ["four-season-protection"],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": false,
+        "offeredAs": ["not_offered"],
+        "standardYears": [],
+        "optionalYears": [],
+        "firstOfferedYear": null,
+        "lastOfferedYear": null,
+        "offeredTrims": [],
+        "regions": ["North America"],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": ["https://www.granddesignrv.com"],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  }
+]

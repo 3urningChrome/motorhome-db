@@ -27,11 +27,17 @@ describe('GET /api/motorhomes', () => {
   });
 
   test('supports free-text search for spaced layout phrases', async () => {
-    const response = await request(app).get('/api/motorhomes?q=front%20dropdown%20bed');
+    const [spacedResponse, hyphenatedResponse] = await Promise.all([
+      request(app).get('/api/motorhomes?q=front%20dropdown%20bed'),
+      request(app).get('/api/motorhomes?q=front-dropdown-bed')
+    ]);
 
-    expect(response.statusCode).toBe(200);
-    expect(response.body.data.length).toBeGreaterThan(0);
-    expect(response.body.data.some((item) => item.featureTags.includes('front dropdown bed'))).toBe(true);
+    expect(spacedResponse.statusCode).toBe(200);
+    expect(hyphenatedResponse.statusCode).toBe(200);
+    expect(spacedResponse.body.data.length).toBeGreaterThan(0);
+    expect(hyphenatedResponse.body.data.length).toBeGreaterThan(0);
+    expect(spacedResponse.body.data.some((item) => item.featureTags.includes('front dropdown bed'))).toBe(true);
+    expect(hyphenatedResponse.body.data.some((item) => item.featureTags.includes('front dropdown bed'))).toBe(true);
   });
 
   test('supports feature filtering for rear lounge layouts', async () => {
@@ -39,7 +45,7 @@ describe('GET /api/motorhomes', () => {
 
     expect(response.statusCode).toBe(200);
     expect(response.body.data.length).toBeGreaterThan(0);
-    expect(response.body.data.some((item) => item.id === 'auto-sleepers-fairford')).toBe(true);
+    expect(response.body.data.every((item) => item.featureTags.includes('rear lounge'))).toBe(true);
   });
 
   test('supports model-year filtering', async () => {

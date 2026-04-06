@@ -282,3 +282,110 @@ Status legend: ✅ Done | 🔄 In Progress | ⬜ Pending
 ---
 
 **Total entries: 113**
+
+---
+
+## Session 3 — Deeper EU/UK Expansion (29 more models added)
+
+### France — Chausson (Trigano group)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 114 | Chausson | Flash 758 | ✅ |
+| 115 | Chausson | Welcome 625 | ✅ |
+| 116 | Chausson | Titanium 788 | ✅ |
+| 117 | Chausson | Exaltis 7088 | ✅ |
+
+### Germany — Carthago (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 118 | Carthago | e-line I 51 | ✅ |
+| 119 | Carthago | Chic c-line I 51 | ✅ |
+
+### Germany — Morelo
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 120 | Morelo | Palace 90 L | ✅ |
+| 121 | Morelo | Loft 79 G | ✅ |
+
+### Germany — Concorde
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 122 | Concorde | Compact C595 | ✅ |
+| 123 | Concorde | Centurion 800 RF | ✅ |
+| 124 | Concorde | Liner 990 RL | ✅ |
+
+### Italy — Elnagh (Trigano group)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 125 | Elnagh | Baron 63 | ✅ |
+| 126 | Elnagh | T-Loft 460 | ✅ |
+| 127 | Elnagh | Magnum 5 | ✅ |
+
+### United Kingdom — Bessacarr (Swift Group, discontinued)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 128 | Bessacarr | E460 | ✅ |
+
+### Germany — Bürstner (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 129 | Bürstner | Citycar C 640 | ✅ |
+| 130 | Bürstner | Lyseo Map i 690 | ✅ |
+
+### Germany — Carado (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 131 | Carado | A 339 | ✅ |
+| 132 | Carado | I 338 | ✅ |
+
+### Germany — Dethleffs (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 133 | Dethleffs | Trend 7057 | ✅ |
+| 134 | Dethleffs | A 7877 | ✅ |
+
+### France — Florium
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 135 | Florium | Wincester 69 L | ✅ |
+
+### United Kingdom — Auto-Trail (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 136 | Auto-Trail | Imala | ✅ |
+
+### Germany — Knaus (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 137 | Knaus | Sky I 700 | ✅ |
+| 138 | Knaus | Van TI 650 | ✅ |
+
+### Germany — Hymer (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 139 | Hymer | Exsis-t 474 | ✅ |
+| 140 | Hymer | DuoMobile T 698 | ✅ |
+
+### Austria — Adria (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 141 | Adria | Compact SP | ✅ |
+| 142 | Adria | Coral Axess 600 SL | ✅ |
+
+---
+
+**Total entries: 142 (91 EU/UK)**

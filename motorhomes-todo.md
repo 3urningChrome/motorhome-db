@@ -389,3 +389,109 @@ Status legend: ✅ Done | 🔄 In Progress | ⬜ Pending
 ---
 
 **Total entries: 142 (91 EU/UK)**
+
+---
+
+## Session 4 — UK Market Expansion
+
+### New UK family-level records added
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 143 | Bailey | Adamo | ✅ |
+| 144 | Bailey | Endeavour | ✅ |
+| 145 | Swift | Voyager | ✅ |
+| 146 | Swift | Trekker | ✅ |
+| 147 | Swift | Ascari | ✅ |
+| 148 | Swift | Carrera | ✅ |
+| 149 | Swift | Monza | ✅ |
+| 150 | Auto-Trail | F-Line | ✅ |
+| 151 | Auto-Trail | V-Line | ✅ |
+| 152 | Auto-Trail | Grande Frontier | ✅ |
+| 153 | Auto-Sleepers | Nuevo | ✅ |
+| 154 | Auto-Sleepers | Burford | ✅ |
+| 155 | Auto-Sleepers | Fairford | ✅ |
+| 156 | Auto-Sleepers | Stanton | ✅ |
+| 157 | Auto-Sleepers | Winchcombe | ✅ |
+| 158 | Auto-Sleepers | Malvern | ✅ |
+| 159 | Elddis | Accordo | ✅ |
+| 160 | Elddis | Autoquest CV | ✅ |
+| 161 | Elddis | Evolution | ✅ |
+| 162 | Elddis | Whirlwind | ✅ |
+| 163 | Adria | Coral | ✅ |
+| 164 | Adria | Matrix | ✅ |
+| 165 | Adria | Compact | ✅ |
+| 166 | Adria | Sonic | ✅ |
+| 167 | Adria | Supersonic | ✅ |
+| 168 | Adria | Twin | ✅ |
+| 169 | Adria | Supertwin | ✅ |
+| 170 | Benimar | Benivan | ✅ |
+| 171 | Chausson | Sport Line | ✅ |
+| 172 | Chausson | S Series | ✅ |
+| 173 | Chausson | X Series | ✅ |
+| 174 | Roller Team | Zefiro | ✅ |
+| 175 | Roller Team | Pegaso | ✅ |
+| 176 | Hymer | Grand Canyon S | ✅ |
+| 177 | Hymer | Free | ✅ |
+
+### Existing imported families expanded for UK-market availability
+
+- ✅ Added `UK` region coverage to active or recent UK-sold families already in the dataset for Adria, Benimar, Chausson, Roller Team, Hymer, Pilote, Rapido, Knaus, Weinsberg, Dethleffs, and Carthago.
+- ✅ Normalized older `United Kingdom` region values to `UK` for consistent filtering.
+
+---
+
+**Current dataset total in `src/data/motorhomes.json`: 294, with 192 records tagged for Europe or UK coverage, including 129 UK-tagged records.**
+
+*Note: the numbered checklist in this file tracks curated session additions, not every existing record in the dataset, so its item count does not equal the full JSON record count.*
+
+---
+
+## Session 5 — Additional UK Variant Hunting
+
+### Newly added UK-market families
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 178 | Benimar | Yrteo | ✅ |
+| 179 | Benimar | Sport | ✅ |
+| 180 | Rapido | 6F Series | ✅ |
+| 181 | Rapido | 8F Series | ✅ |
+| 182 | Rapido | Distinction | ✅ |
+| 183 | Rapido | Van Series | ✅ |
+| 184 | Pilote | Atlas | ✅ |
+| 185 | Dethleffs | Alpa | ✅ |
+| 186 | Dethleffs | Globetrail | ✅ |
+| 187 | Knaus | L!VE TI | ✅ |
+| 188 | Knaus | L!VE Wave | ✅ |
+| 189 | Knaus | Boxstar | ✅ |
+| 190 | Weinsberg | CaraLoft | ✅ |
+| 191 | Weinsberg | CaraSuite | ✅ |
+| 192 | Weinsberg | CaraHome | ✅ |
+| 193 | Carthago | Liner-for-two | ✅ |
+| 194 | Carthago | Chic S-Plus | ✅ |
+
+---
+
+**Current dataset total in `src/data/motorhomes.json`: 311, with 209 records tagged for Europe or UK coverage, including 146 UK-tagged records.**
+
+---
+
+## Session 6 — Layout Searchability and More UK Families
+
+### Newly added UK-market families
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 195 | Sunlight | Cliff | ✅ |
+| 196 | Mobilvetta | K-Yacht Tekno Line | ✅ |
+| 197 | Malibu | Van | ✅ |
+
+### Searchability improvements
+
+- ✅ Added explicit layout-oriented feature tags so searches for `rear lounge` and `front dropdown bed` return relevant entries.
+- ✅ Extended UK region coverage to existing Europe-tagged UK-sold Bürstner and Sunlight families already present in the dataset.
+
+---
+
+**Current dataset total in `src/data/motorhomes.json`: 314, with 212 records tagged for Europe or UK coverage, including 154 UK-tagged records.**

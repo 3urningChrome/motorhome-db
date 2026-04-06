@@ -9788,7 +9788,8 @@
     "vehicleClass": "Integrated",
     "bodyType": "Motorized",
     "regions": [
-      "Europe"
+      "Europe",
+      "UK"
     ],
     "production": {
       "firstModelYear": 2018,
@@ -9880,7 +9881,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -9909,7 +9911,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -9938,7 +9941,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -13658,7 +13662,8 @@
       "dry bath",
       "compact",
       "all-season",
-      "coachbuilt"
+      "coachbuilt",
+      "rear lounge"
     ],
     "optionAvailability": [
       {
@@ -17594,7 +17599,8 @@
     "vehicleClass": "Semi-Integrated",
     "bodyType": "Motorized",
     "regions": [
-      "Europe"
+      "Europe",
+      "UK"
     ],
     "production": {
       "firstModelYear": 2016,
@@ -17685,7 +17691,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -17716,7 +17723,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -17742,7 +17750,8 @@
     "vehicleClass": "Van Conversion",
     "bodyType": "Motorized",
     "regions": [
-      "Europe"
+      "Europe",
+      "UK"
     ],
     "production": {
       "firstModelYear": 2017,
@@ -17829,7 +17838,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -17859,7 +17869,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -40382,7 +40393,8 @@
     "vehicleClass": "Semi-Integrated",
     "bodyType": "Motorized",
     "regions": [
-      "Europe"
+      "Europe",
+      "UK"
     ],
     "production": {
       "firstModelYear": 2016,
@@ -40470,7 +40482,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -40501,7 +40514,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -40532,7 +40546,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -40558,7 +40573,8 @@
     "vehicleClass": "Integrated",
     "bodyType": "Motorized",
     "regions": [
-      "Europe"
+      "Europe",
+      "UK"
     ],
     "production": {
       "firstModelYear": 2018,
@@ -40644,7 +40660,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -40673,7 +40690,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -40702,7 +40720,8 @@
         "lastOfferedYear": 2026,
         "offeredTrims": [],
         "regions": [
-          "Europe"
+          "Europe",
+          "UK"
         ],
         "requiredPackageKeys": [],
         "incompatibleOptionKeys": []
@@ -43205,7 +43224,8 @@
     "featureTags": [
       "dry bath",
       "coachbuilt",
-      "compact"
+      "compact",
+      "rear lounge"
     ],
     "optionAvailability": [
       {
@@ -43367,7 +43387,8 @@
     "featureTags": [
       "wet bath",
       "van conversion",
-      "compact"
+      "compact",
+      "rear lounge"
     ],
     "optionAvailability": [
       {
@@ -47098,7 +47119,8 @@
     "featureTags": [
       "wet bath",
       "camper van",
-      "family"
+      "family",
+      "rear lounge"
     ],
     "optionAvailability": [
       {
@@ -48389,7 +48411,8 @@
       "dry bath",
       "drop-down-bed",
       "family",
-      "coachbuilt"
+      "coachbuilt",
+      "front dropdown bed"
     ],
     "optionAvailability": [
       {
@@ -51890,7 +51913,8 @@
       "dry bath",
       "family",
       "coachbuilt",
-      "drop-down-bed"
+      "drop-down-bed",
+      "front dropdown bed"
     ],
     "optionAvailability": [
       {
@@ -52308,7 +52332,8 @@
       "dry bath",
       "family",
       "coachbuilt",
-      "drop-down-bed"
+      "drop-down-bed",
+      "front dropdown bed"
     ],
     "optionAvailability": [
       {
@@ -52847,6 +52872,491 @@
     },
     "sources": [
       "https://www.carthago.com/en/motorhomes/"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "sunlight-cliff",
+    "manufacturer": "Sunlight",
+    "modelName": "Cliff",
+    "series": "Cliff",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2020,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "540",
+        "name": "Cliff 540"
+      },
+      {
+        "code": "600",
+        "name": "Cliff 600"
+      },
+      {
+        "code": "640",
+        "name": "Cliff 640"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 17.7,
+        "max": 20.9
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 72000,
+        "max": 98000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "FWD"
+      ],
+      "engineFamilies": [
+        "2.2L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact",
+      "rear lounge"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.sunlight.de/en/models/camper-vans/cliff-x/",
+      "https://www.lowdhams.com/browse/new-sunlight-campervans"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "mobilvetta-k-yacht-tekno-line",
+    "manufacturer": "Mobilvetta",
+    "modelName": "K-Yacht Tekno Line",
+    "series": "K-Yacht Tekno Line",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2019,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "59",
+        "name": "K-Yacht Tekno Line 59"
+      },
+      {
+        "code": "80",
+        "name": "K-Yacht Tekno Line 80"
+      },
+      {
+        "code": "86",
+        "name": "K-Yacht Tekno Line 86"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.7,
+        "max": 24.4
+      },
+      "sleeping": {
+        "min": 3,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 140000,
+        "max": 210000
+      },
+      "gvwrLb": {
+        "min": 9700,
+        "max": 9700
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "FWD"
+      ],
+      "engineFamilies": [
+        "2.2L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "luxury",
+      "integrated",
+      "front dropdown bed"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://mobilvetta.it/en/range/k-yacht-tekno-line-en/",
+      "https://www.marquisleisure.co.uk/mobilvetta-k-yacht-2025"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "malibu-van",
+    "manufacturer": "Malibu",
+    "modelName": "Van",
+    "series": "Van",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2020,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "540 DB",
+        "name": "Van Compact 540 DB"
+      },
+      {
+        "code": "640 LE",
+        "name": "Van Comfort 640 LE"
+      },
+      {
+        "code": "641 LE",
+        "name": "Van Genius 641 LE"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 17.7,
+        "max": 21
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 86000,
+        "max": 130000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 9039
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "FWD",
+        "RWD",
+        "AWD"
+      ],
+      "engineFamilies": [
+        "2.2L Multijet diesel",
+        "2.0L Mercedes diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact",
+      "rear lounge"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "4x4-drivetrain",
+        "label": "4x4 / AWD Drivetrain",
+        "category": "chassis",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": true,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.malibu-carthago.com/en/camper-van/comfort-camper-van/comfort-640-le/",
+      "https://southdownsmotorhomes.co.uk/malibu-campervans/"
     ],
     "updatedAt": "2026-04-06T00:00:00.000Z"
   }

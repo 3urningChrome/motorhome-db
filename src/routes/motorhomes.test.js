@@ -26,6 +26,22 @@ describe('GET /api/motorhomes', () => {
     expect(response.body.data.length).toBeGreaterThan(0);
   });
 
+  test('supports free-text search for spaced layout phrases', async () => {
+    const response = await request(app).get('/api/motorhomes?q=front%20dropdown%20bed');
+
+    expect(response.statusCode).toBe(200);
+    expect(response.body.data.length).toBeGreaterThan(0);
+    expect(response.body.data.some((item) => item.featureTags.includes('front dropdown bed'))).toBe(true);
+  });
+
+  test('supports feature filtering for rear lounge layouts', async () => {
+    const response = await request(app).get('/api/motorhomes?features=Rear%20Lounge');
+
+    expect(response.statusCode).toBe(200);
+    expect(response.body.data.length).toBeGreaterThan(0);
+    expect(response.body.data.some((item) => item.id === 'auto-sleepers-fairford')).toBe(true);
+  });
+
   test('supports model-year filtering', async () => {
     const response = await request(app).get('/api/motorhomes?modelYear=2020');
 

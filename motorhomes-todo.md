@@ -474,3 +474,24 @@ Status legend: ✅ Done | 🔄 In Progress | ⬜ Pending
 ---
 
 **Current dataset total in `src/data/motorhomes.json`: 311, with 209 records tagged for Europe or UK coverage, including 146 UK-tagged records.**
+
+---
+
+## Session 6 — Layout Searchability and More UK Families
+
+### Newly added UK-market families
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 195 | Sunlight | Cliff | ✅ |
+| 196 | Mobilvetta | K-Yacht Tekno Line | ✅ |
+| 197 | Malibu | Van | ✅ |
+
+### Searchability improvements
+
+- ✅ Added explicit layout-oriented feature tags so searches for `rear lounge` and `front dropdown bed` return relevant entries.
+- ✅ Extended UK region coverage to existing Europe-tagged UK-sold Bürstner and Sunlight families already present in the dataset.
+
+---
+
+**Current dataset total in `src/data/motorhomes.json`: 314, with 212 records tagged for Europe or UK coverage, including 154 UK-tagged records.**

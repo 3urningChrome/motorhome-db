@@ -4,6 +4,13 @@ const motorhomes = require('../data/motorhomes.json');
 
 const router = express.Router();
 
+const normalizeSearchValue = (value) =>
+  String(value || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim()
+    .replace(/\s+/g, ' ');
+
 const querySchema = z.object({
   q: z.string().trim().optional(),
   manufacturer: z.string().trim().optional(),
@@ -36,7 +43,7 @@ const buildSearchText = (motorhome) => {
   const features = motorhome.featureTags?.join(' ') || '';
   const optionKeys = (motorhome.optionAvailability || []).map((option) => option.optionKey).join(' ');
 
-  return [
+  return normalizeSearchValue([
     motorhome.manufacturer,
     motorhome.modelName,
     motorhome.series,
@@ -46,8 +53,7 @@ const buildSearchText = (motorhome) => {
     optionKeys
   ]
     .filter(Boolean)
-    .join(' ')
-    .toLowerCase();
+    .join(' '));
 };
 
 const includesAllFeatures = (motorhome, featureTokens) => {
@@ -55,9 +61,12 @@ const includesAllFeatures = (motorhome, featureTokens) => {
     return true;
   }
 
-  const haystack = (motorhome.featureTags || []).map((feature) => feature.toLowerCase());
+  const haystack = (motorhome.featureTags || []).map((feature) => normalizeSearchValue(feature));
 
-  return featureTokens.every((token) => haystack.some((feature) => feature.includes(token)));
+  return featureTokens.every((token) => {
+    const normalizedToken = normalizeSearchValue(token);
+    return haystack.some((feature) => feature.includes(normalizedToken));
+  });
 };
 
 const includesValue = (values, expected) => {
@@ -203,7 +212,7 @@ router.get('/', (req, res) => {
     const firstYear = motorhome.production?.firstModelYear;
     const lastYear = motorhome.production?.lastModelYear;
 
-    if (query.q && !buildSearchText(motorhome).includes(query.q.toLowerCase())) {
+    if (query.q && !buildSearchText(motorhome).includes(normalizeSearchValue(query.q))) {
       return false;
     }
 

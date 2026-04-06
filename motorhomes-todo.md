@@ -444,3 +444,33 @@ Status legend: ✅ Done | 🔄 In Progress | ⬜ Pending
 **Current dataset total in `src/data/motorhomes.json`: 294, with 192 records tagged for Europe or UK coverage, including 129 UK-tagged records.**
 
 *Note: the numbered checklist in this file tracks curated session additions, not every existing record in the dataset, so its item count does not equal the full JSON record count.*
+
+---
+
+## Session 5 — Additional UK Variant Hunting
+
+### Newly added UK-market families
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 178 | Benimar | Yrteo | ✅ |
+| 179 | Benimar | Sport | ✅ |
+| 180 | Rapido | 6F Series | ✅ |
+| 181 | Rapido | 8F Series | ✅ |
+| 182 | Rapido | Distinction | ✅ |
+| 183 | Rapido | Van Series | ✅ |
+| 184 | Pilote | Atlas | ✅ |
+| 185 | Dethleffs | Alpa | ✅ |
+| 186 | Dethleffs | Globetrail | ✅ |
+| 187 | Knaus | L!VE TI | ✅ |
+| 188 | Knaus | L!VE Wave | ✅ |
+| 189 | Knaus | Boxstar | ✅ |
+| 190 | Weinsberg | CaraLoft | ✅ |
+| 191 | Weinsberg | CaraSuite | ✅ |
+| 192 | Weinsberg | CaraHome | ✅ |
+| 193 | Carthago | Liner-for-two | ✅ |
+| 194 | Carthago | Chic S-Plus | ✅ |
+
+---
+
+**Current dataset total in `src/data/motorhomes.json`: 311, with 209 records tagged for Europe or UK coverage, including 146 UK-tagged records.**

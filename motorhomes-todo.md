@@ -389,3 +389,56 @@ Status legend: ✅ Done | 🔄 In Progress | ⬜ Pending
 ---
 
 **Total entries: 142 (91 EU/UK)**
+
+---
+
+## Session 4 — UK Market Expansion
+
+### New UK family-level records added
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 143 | Bailey | Adamo | ✅ |
+| 144 | Bailey | Endeavour | ✅ |
+| 145 | Swift | Voyager | ✅ |
+| 146 | Swift | Trekker | ✅ |
+| 147 | Swift | Ascari | ✅ |
+| 148 | Swift | Carrera | ✅ |
+| 149 | Swift | Monza | ✅ |
+| 150 | Auto-Trail | F-Line | ✅ |
+| 151 | Auto-Trail | V-Line | ✅ |
+| 152 | Auto-Trail | Grande Frontier | ✅ |
+| 153 | Auto-Sleepers | Nuevo | ✅ |
+| 154 | Auto-Sleepers | Burford | ✅ |
+| 155 | Auto-Sleepers | Fairford | ✅ |
+| 156 | Auto-Sleepers | Stanton | ✅ |
+| 157 | Auto-Sleepers | Winchcombe | ✅ |
+| 158 | Auto-Sleepers | Malvern | ✅ |
+| 159 | Elddis | Accordo | ✅ |
+| 160 | Elddis | Autoquest CV | ✅ |
+| 161 | Elddis | Evolution | ✅ |
+| 162 | Elddis | Whirlwind | ✅ |
+| 163 | Adria | Coral | ✅ |
+| 164 | Adria | Matrix | ✅ |
+| 165 | Adria | Compact | ✅ |
+| 166 | Adria | Sonic | ✅ |
+| 167 | Adria | Supersonic | ✅ |
+| 168 | Adria | Twin | ✅ |
+| 169 | Adria | Supertwin | ✅ |
+| 170 | Benimar | Benivan | ✅ |
+| 171 | Chausson | Sport Line | ✅ |
+| 172 | Chausson | S Series | ✅ |
+| 173 | Chausson | X Series | ✅ |
+| 174 | Roller Team | Zefiro | ✅ |
+| 175 | Roller Team | Pegaso | ✅ |
+| 176 | Hymer | Grand Canyon S | ✅ |
+| 177 | Hymer | Free | ✅ |
+
+### Existing imported families expanded for UK-market availability
+
+- ✅ Added `UK` region coverage to active or recent UK-sold families already in the dataset for Adria, Benimar, Chausson, Roller Team, Hymer, Pilote, Rapido, Knaus, Weinsberg, Dethleffs, and Carthago.
+- ✅ Normalized older `United Kingdom` region values to `UK` for consistent filtering.
+
+---
+
+**Current dataset total: 294 (192 Europe/UK, 129 UK)**

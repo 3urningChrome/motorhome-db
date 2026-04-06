@@ -441,6 +441,6 @@ Status legend: ✅ Done | 🔄 In Progress | ⬜ Pending
 
 ---
 
-**Current dataset total in `src/data/motorhomes.json`: 294 (192 Europe/UK, 129 UK).**
+**Current dataset total in `src/data/motorhomes.json`: 294, with 192 records tagged for Europe or UK coverage, including 129 UK-tagged records.**
 
 *Note: the numbered checklist in this file tracks curated session additions, not every existing record in the dataset, so its item count does not equal the full JSON record count.*

@@ -123,4 +123,162 @@ Status legend: ✅ Done | 🔄 In Progress | ⬜ Pending
 
 ---
 
-**Total target: 69 entries**
+## Session 2 — UK & West Europe Expansion
+
+### United Kingdom — Bailey Motorhomes
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 70 | Bailey | Alliance | ✅ |
+| 71 | Bailey | Advance | ✅ |
+| 72 | Bailey | Autograph | ✅ |
+
+### United Kingdom — Swift Group
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 73 | Swift | Escape | ✅ |
+| 74 | Swift | Kon-tiki | ✅ |
+| 75 | Swift | Select | ✅ |
+
+### United Kingdom — Auto-Sleepers (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 76 | Auto-Sleepers | Warwick Duo | ✅ |
+| 77 | Auto-Sleepers | Corinium | ✅ |
+| 78 | Auto-Sleepers | Symbol | ✅ |
+
+### United Kingdom — Auto-Trail (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 79 | Auto-Trail | Tracker | ✅ |
+| 80 | Auto-Trail | Apache | ✅ |
+| 81 | Auto-Trail | Frontier | ✅ |
+
+### United Kingdom — Elddis (additional)
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 82 | Elddis | Sunseeker | ✅ |
+| 83 | Elddis | Encore | ✅ |
+
+### United Kingdom — Lunar Motorhomes
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 84 | Lunar | Landstar | ✅ |
+
+### France — Pilote
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 85 | Pilote | Galaxie | ✅ |
+| 86 | Pilote | Village | ✅ |
+
+### France — Rapido
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 87 | Rapido | 8096dF | ✅ |
+| 88 | Rapido | 663F | ✅ |
+
+### France — Challenger
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 89 | Challenger | Edmonde | ✅ |
+| 90 | Challenger | Genesis | ✅ |
+
+### France — McLouis
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 91 | McLouis | Fusion | ✅ |
+
+### Germany — Frankia
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 92 | Frankia | I 780 GD | ✅ |
+| 93 | Frankia | Neo | ✅ |
+
+### Germany — Niesmann+Bischoff
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 94 | Niesmann+Bischoff | Arto | ✅ |
+| 95 | Niesmann+Bischoff | Flair | ✅ |
+
+### Germany — Eura Mobil
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 96 | Eura Mobil | Integra | ✅ |
+| 97 | Eura Mobil | Terrestra | ✅ |
+
+### Germany — LMC
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 98 | LMC | Explorer | ✅ |
+| 99 | LMC | Liberty | ✅ |
+
+### Germany — Sunlight
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 100 | Sunlight | T 64 | ✅ |
+| 101 | Sunlight | V 65 | ✅ |
+
+### Germany — Weinsberg
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 102 | Weinsberg | CaraTour | ✅ |
+| 103 | Weinsberg | CaraCompact | ✅ |
+
+### Germany — Globecar
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 104 | Globecar | Roadscout | ✅ |
+| 105 | Globecar | Summit Prime | ✅ |
+
+### Italy — Laika
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 106 | Laika | Ecovip | ✅ |
+| 107 | Laika | Kosmo | ✅ |
+
+### Italy — Roller Team
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 108 | Roller Team | Kronos | ✅ |
+| 109 | Roller Team | Livingstone | ✅ |
+
+### Italy — Rimor
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 110 | Rimor | Europeo | ✅ |
+
+### Germany — Hobby
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 111 | Hobby | Optima | ✅ |
+
+### Spain — Benimar
+
+| # | Manufacturer | Model | Status |
+|---|---|---|---|
+| 112 | Benimar | Tessoro | ✅ |
+| 113 | Benimar | Mileo | ✅ |
+
+---
+
+**Total entries: 113**

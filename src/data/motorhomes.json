@@ -12576,5 +12576,7191 @@
       "https://www.entegra.com"
     ],
     "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "bailey-alliance",
+    "manufacturer": "Bailey",
+    "modelName": "Alliance",
+    "series": "Alliance",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2015,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "66-2",
+        "name": "Alliance 66-2"
+      },
+      {
+        "code": "67-4",
+        "name": "Alliance 67-4"
+      },
+      {
+        "code": "69-2T",
+        "name": "Alliance 69-2T"
+      },
+      {
+        "code": "76-4",
+        "name": "Alliance 76-4"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.9,
+        "max": 24.7
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 48000,
+        "max": 75000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season",
+      "compact",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.bailey-caravans.co.uk/motorhomes/alliance"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "bailey-advance",
+    "manufacturer": "Bailey",
+    "modelName": "Advance",
+    "series": "Advance",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2019,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "66-2",
+        "name": "Advance 66-2"
+      },
+      {
+        "code": "70-4",
+        "name": "Advance 70-4"
+      },
+      {
+        "code": "74-6",
+        "name": "Advance 74-6"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.7,
+        "max": 24.7
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 55000,
+        "max": 85000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.bailey-caravans.co.uk/motorhomes/advance"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "bailey-autograph",
+    "manufacturer": "Bailey",
+    "modelName": "Autograph",
+    "series": "Autograph",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2022,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "69-4",
+        "name": "Autograph 69-4"
+      },
+      {
+        "code": "74-4",
+        "name": "Autograph 74-4"
+      },
+      {
+        "code": "79-4T",
+        "name": "Autograph 79-4T"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 22.5,
+        "max": 25.3
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 72000,
+        "max": 105000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "luxury",
+      "all-season",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2022,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2022,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2022,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.bailey-caravans.co.uk/motorhomes/autograph"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "swift-escape",
+    "manufacturer": "Swift",
+    "modelName": "Escape",
+    "series": "Escape",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2015,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "604",
+        "name": "Escape 604"
+      },
+      {
+        "code": "614",
+        "name": "Escape 614"
+      },
+      {
+        "code": "684",
+        "name": "Escape 684"
+      },
+      {
+        "code": "694",
+        "name": "Escape 694"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.9,
+        "max": 23.9
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 46000,
+        "max": 72000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "compact",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.swiftmotorhomes.co.uk"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "swift-kon-tiki",
+    "manufacturer": "Swift",
+    "modelName": "Kon-tiki",
+    "series": "Kon-tiki",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2018,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "669",
+        "name": "Kon-tiki 669"
+      },
+      {
+        "code": "679",
+        "name": "Kon-tiki 679"
+      },
+      {
+        "code": "784",
+        "name": "Kon-tiki 784"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.2,
+        "max": 25.6
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 60000,
+        "max": 95000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season",
+      "luxury",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.swiftmotorhomes.co.uk"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "swift-select",
+    "manufacturer": "Swift",
+    "modelName": "Select",
+    "series": "Select",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2019,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "120",
+        "name": "Select 120"
+      },
+      {
+        "code": "184",
+        "name": "Select 184"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.6,
+        "max": 22.9
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 57000,
+        "max": 82000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.swiftmotorhomes.co.uk"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "auto-sleepers-warwick",
+    "manufacturer": "Auto-Sleepers",
+    "modelName": "Warwick Duo",
+    "series": "Warwick",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2014,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "Duo",
+        "name": "Warwick Duo"
+      },
+      {
+        "code": "Duo XL",
+        "name": "Warwick Duo XL"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.8,
+        "max": 23.0
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 68000,
+        "max": 88000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.2L HDi diesel",
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "compact",
+      "all-season",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2014,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.auto-sleepers.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "auto-sleepers-corinium",
+    "manufacturer": "Auto-Sleepers",
+    "modelName": "Corinium",
+    "series": "Corinium",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2016,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "DB",
+        "name": "Corinium DB"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.3,
+        "max": 21.3
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 58000,
+        "max": 72000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.2L HDi diesel",
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "compact",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.auto-sleepers.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "auto-sleepers-symbol",
+    "manufacturer": "Auto-Sleepers",
+    "modelName": "Symbol",
+    "series": "Symbol",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2015,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "Plus",
+        "name": "Symbol Plus"
+      },
+      {
+        "code": "GT",
+        "name": "Symbol GT"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.0,
+        "max": 19.6
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 52000,
+        "max": 68000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel",
+        "2.2L HDi diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.auto-sleepers.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "auto-trail-tracker",
+    "manufacturer": "Auto-Trail",
+    "modelName": "Tracker",
+    "series": "Tracker",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2010,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "RB",
+        "name": "Tracker RB"
+      },
+      {
+        "code": "RS",
+        "name": "Tracker RS"
+      },
+      {
+        "code": "FB",
+        "name": "Tracker FB"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.0,
+        "max": 22.5
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 44000,
+        "max": 65000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "compact",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2014,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2010,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.auto-trail.co.uk"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "auto-trail-apache",
+    "manufacturer": "Auto-Trail",
+    "modelName": "Apache",
+    "series": "Apache",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2010,
+      "lastModelYear": 2024,
+      "stillInProduction": false,
+      "yearsOffered": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "trims": [
+      {
+        "code": "632",
+        "name": "Apache 632"
+      },
+      {
+        "code": "700",
+        "name": "Apache 700"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 20.8,
+        "max": 23.3
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 52000,
+        "max": 78000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2014,
+        "lastOfferedYear": 2024,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2010,
+        "lastOfferedYear": 2024,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.auto-trail.co.uk"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "auto-trail-frontier",
+    "manufacturer": "Auto-Trail",
+    "modelName": "Frontier",
+    "series": "Frontier",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2012,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "Scout",
+        "name": "Frontier Scout"
+      },
+      {
+        "code": "Chieftain",
+        "name": "Frontier Chieftain"
+      },
+      {
+        "code": "Delaware",
+        "name": "Frontier Delaware"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 23.3,
+        "max": 27.2
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 65000,
+        "max": 105000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season",
+      "luxury",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2012,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.auto-trail.co.uk"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "elddis-sunseeker",
+    "manufacturer": "Elddis",
+    "modelName": "Sunseeker",
+    "series": "Sunseeker",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2015,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "150",
+        "name": "Sunseeker 150"
+      },
+      {
+        "code": "180",
+        "name": "Sunseeker 180"
+      },
+      {
+        "code": "194",
+        "name": "Sunseeker 194"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.0,
+        "max": 22.8
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 48000,
+        "max": 72000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "compact",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.elddis.co.uk"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "elddis-encore",
+    "manufacturer": "Elddis",
+    "modelName": "Encore",
+    "series": "Encore",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2019,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "255",
+        "name": "Encore 255"
+      },
+      {
+        "code": "285",
+        "name": "Encore 285"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 23.0,
+        "max": 26.0
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 62000,
+        "max": 92000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season",
+      "luxury",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.elddis.co.uk"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "lunar-landstar",
+    "manufacturer": "Lunar",
+    "modelName": "Landstar",
+    "series": "Landstar",
+    "vehicleClass": "Coachbuilt",
+    "bodyType": "Motorized",
+    "regions": [
+      "UK"
+    ],
+    "production": {
+      "firstModelYear": 2012,
+      "lastModelYear": 2018,
+      "stillInProduction": false,
+      "yearsOffered": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "trims": [
+      {
+        "code": "2",
+        "name": "Landstar 2"
+      },
+      {
+        "code": "4",
+        "name": "Landstar 4"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 22.6,
+        "max": 25.0
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 50000,
+        "max": 72000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "coachbuilt"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2014,
+        "lastOfferedYear": 2018,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2012,
+        "lastOfferedYear": 2018,
+        "offeredTrims": [],
+        "regions": [
+          "UK"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lunar_Caravans"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "pilote-galaxie",
+    "manufacturer": "Pilote",
+    "modelName": "Galaxie",
+    "series": "Galaxie",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2014,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "G680G",
+        "name": "Galaxie G680G"
+      },
+      {
+        "code": "G700C",
+        "name": "Galaxie G700C"
+      },
+      {
+        "code": "G741C",
+        "name": "Galaxie G741C"
+      },
+      {
+        "code": "G780C",
+        "name": "Galaxie G780C"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 22.0,
+        "max": 25.9
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 55000,
+        "max": 100000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "slide-out",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2014,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.pilote.fr"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "pilote-village",
+    "manufacturer": "Pilote",
+    "modelName": "Village",
+    "series": "Village",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2018,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "V630G",
+        "name": "Village V630G"
+      },
+      {
+        "code": "V650G",
+        "name": "Village V650G"
+      },
+      {
+        "code": "V696C",
+        "name": "Village V696C"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.0,
+        "max": 24.0
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 62000,
+        "max": 115000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "integrated",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.pilote.fr"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "rapido-8096df",
+    "manufacturer": "Rapido",
+    "modelName": "8096dF",
+    "series": "8000",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2019,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "8096dF",
+        "name": "8096dF"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 29.5,
+        "max": 29.5
+      },
+      "sleeping": {
+        "min": 6,
+        "max": 8
+      },
+      "msrpUsd": {
+        "min": 115000,
+        "max": 160000
+      },
+      "gvwrLb": {
+        "min": 11023,
+        "max": 11023
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "luxury",
+      "dry bath",
+      "slide-out",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.rapido-group.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "rapido-663f",
+    "manufacturer": "Rapido",
+    "modelName": "663F",
+    "series": "600",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2017,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "663F",
+        "name": "663F"
+      },
+      {
+        "code": "696F",
+        "name": "696F"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.7,
+        "max": 23.3
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 55000,
+        "max": 82000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.rapido-group.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "challenger-edmonde",
+    "manufacturer": "Challenger",
+    "modelName": "Edmonde",
+    "series": "Edmonde",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2017,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "322 GA",
+        "name": "Edmonde 322 GA"
+      },
+      {
+        "code": "322 GA XL",
+        "name": "Edmonde 322 GA XL"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 22.1,
+        "max": 23.0
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 58000,
+        "max": 88000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.challenger-fr.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "challenger-genesis",
+    "manufacturer": "Challenger",
+    "modelName": "Genesis",
+    "series": "Genesis",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2020,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "60",
+        "name": "Genesis 60"
+      },
+      {
+        "code": "75",
+        "name": "Genesis 75"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.8,
+        "max": 24.6
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 68000,
+        "max": 118000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.challenger-fr.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "mclouis-fusion",
+    "manufacturer": "McLouis",
+    "modelName": "Fusion",
+    "series": "Fusion",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2018,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "330",
+        "name": "Fusion 330"
+      },
+      {
+        "code": "359",
+        "name": "Fusion 359"
+      },
+      {
+        "code": "390",
+        "name": "Fusion 390"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.0,
+        "max": 26.9
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 65000,
+        "max": 118000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.mclouis.fr"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "frankia-i780",
+    "manufacturer": "Frankia",
+    "modelName": "I 780 GD",
+    "series": "Titan",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2015,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "I 780 GD",
+        "name": "I 780 GD"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 25.9,
+        "max": 25.9
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 92000,
+        "max": 138000
+      },
+      "gvwrLb": {
+        "min": 8818,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "dry bath",
+      "luxury",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.frankia.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "frankia-neo",
+    "manufacturer": "Frankia",
+    "modelName": "Neo",
+    "series": "Neo",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2021,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "740 GD",
+        "name": "Neo 740 GD"
+      },
+      {
+        "code": "680 GD",
+        "name": "Neo 680 GD"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 22.3,
+        "max": 24.0
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 72000,
+        "max": 105000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD",
+        "4x4"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact",
+      "4x4"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "4x4-drivetrain",
+        "label": "4x4 Drivetrain",
+        "category": "drivetrain",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2021,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": true,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.frankia.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "niesmann-bischoff-arto",
+    "manufacturer": "Niesmann+Bischoff",
+    "modelName": "Arto",
+    "series": "Arto",
+    "vehicleClass": "Liner",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2016,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "74 LE",
+        "name": "Arto 74 LE"
+      },
+      {
+        "code": "79 E",
+        "name": "Arto 79 E"
+      },
+      {
+        "code": "88 LS",
+        "name": "Arto 88 LS"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 24.3,
+        "max": 28.9
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 175000,
+        "max": 350000
+      },
+      "gvwrLb": {
+        "min": 11023,
+        "max": 16534
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "3.0L OM642 V6 diesel",
+        "7.7L Mercedes OM457"
+      ]
+    },
+    "featureTags": [
+      "luxury",
+      "liner",
+      "integrated",
+      "dry bath",
+      "king bed",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.niesmann-bischoff.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "niesmann-bischoff-flair",
+    "manufacturer": "Niesmann+Bischoff",
+    "modelName": "Flair",
+    "series": "Flair",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2018,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "820 LE",
+        "name": "Flair 820 LE"
+      },
+      {
+        "code": "830 LE",
+        "name": "Flair 830 LE"
+      },
+      {
+        "code": "920 LE",
+        "name": "Flair 920 LE"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 26.9,
+        "max": 30.2
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 95000,
+        "max": 175000
+      },
+      "gvwrLb": {
+        "min": 8818,
+        "max": 11023
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "3.0L Multijet V6 diesel",
+        "3.0L OM642 V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "luxury",
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.niesmann-bischoff.com"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "eura-mobil-integra",
+    "manufacturer": "Eura Mobil",
+    "modelName": "Integra",
+    "series": "Integra",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2010,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "720 EB",
+        "name": "Integra 720 EB"
+      },
+      {
+        "code": "740 EB",
+        "name": "Integra 740 EB"
+      },
+      {
+        "code": "810 EB",
+        "name": "Integra 810 EB"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 23.6,
+        "max": 26.9
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 78000,
+        "max": 145000
+      },
+      "gvwrLb": {
+        "min": 8818,
+        "max": 11023
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2010,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2014,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.euramobil.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "eura-mobil-terrestra",
+    "manufacturer": "Eura Mobil",
+    "modelName": "Terrestra",
+    "series": "Terrestra",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2016,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "630 HS",
+        "name": "Terrestra 630 HS"
+      },
+      {
+        "code": "690 HS",
+        "name": "Terrestra 690 HS"
+      },
+      {
+        "code": "730 HS",
+        "name": "Terrestra 730 HS"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 20.7,
+        "max": 24.3
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 62000,
+        "max": 105000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.euramobil.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "lmc-explorer",
+    "manufacturer": "LMC",
+    "modelName": "Explorer",
+    "series": "Explorer",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2015,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "685 G",
+        "name": "Explorer 685 G"
+      },
+      {
+        "code": "726 G",
+        "name": "Explorer 726 G"
+      },
+      {
+        "code": "736 G",
+        "name": "Explorer 736 G"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 22.0,
+        "max": 24.3
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 52000,
+        "max": 88000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.lmc.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "lmc-liberty",
+    "manufacturer": "LMC",
+    "modelName": "Liberty",
+    "series": "Liberty",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2018,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "636 G",
+        "name": "Liberty 636 G"
+      },
+      {
+        "code": "660 G",
+        "name": "Liberty 660 G"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 20.0,
+        "max": 22.0
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 55000,
+        "max": 78000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.lmc.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "sunlight-t64",
+    "manufacturer": "Sunlight",
+    "modelName": "T 64",
+    "series": "T",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2016,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "T 64",
+        "name": "T 64"
+      },
+      {
+        "code": "T 68",
+        "name": "T 68"
+      },
+      {
+        "code": "T 72",
+        "name": "T 72"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.3,
+        "max": 23.6
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 42000,
+        "max": 68000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "compact"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.sunlight-wohnmobile.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "sunlight-v65",
+    "manufacturer": "Sunlight",
+    "modelName": "V 65",
+    "series": "V",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2017,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "V 65",
+        "name": "V 65"
+      },
+      {
+        "code": "V 68",
+        "name": "V 68"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 20.3,
+        "max": 22.0
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 45000,
+        "max": 68000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.sunlight-wohnmobile.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "weinsberg-caratour",
+    "manufacturer": "Weinsberg",
+    "modelName": "CaraTour",
+    "series": "CaraTour",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2016,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "600 DQ",
+        "name": "CaraTour 600 DQ"
+      },
+      {
+        "code": "650 MEH",
+        "name": "CaraTour 650 MEH"
+      },
+      {
+        "code": "700 MQH",
+        "name": "CaraTour 700 MQH"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.7,
+        "max": 23.3
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 42000,
+        "max": 72000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "compact"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.weinsberg.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "weinsberg-caracompact",
+    "manufacturer": "Weinsberg",
+    "modelName": "CaraCompact",
+    "series": "CaraCompact",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2017,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "600 ME",
+        "name": "CaraCompact 600 ME"
+      },
+      {
+        "code": "630 ME",
+        "name": "CaraCompact 630 ME"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.7,
+        "max": 21.0
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 40000,
+        "max": 58000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.weinsberg.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "globecar-roadscout",
+    "manufacturer": "Globecar",
+    "modelName": "Roadscout",
+    "series": "Roadscout",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2017,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "600",
+        "name": "Roadscout 600"
+      },
+      {
+        "code": "640",
+        "name": "Roadscout 640"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.9,
+        "max": 21.3
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 52000,
+        "max": 78000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD",
+        "4x4"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact",
+      "4x4"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "4x4-drivetrain",
+        "label": "4x4 Drivetrain",
+        "category": "drivetrain",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": true,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.globecar.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "globecar-summit-prime",
+    "manufacturer": "Globecar",
+    "modelName": "Summit Prime",
+    "series": "Summit Prime",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2020,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "640",
+        "name": "Summit Prime 640"
+      },
+      {
+        "code": "690",
+        "name": "Summit Prime 690"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.0,
+        "max": 22.6
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 72000,
+        "max": 98000
+      },
+      "gvwrLb": {
+        "min": 8818,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD",
+        "4x4"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "luxury",
+      "4x4",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "4x4-drivetrain",
+        "label": "4x4 Drivetrain",
+        "category": "drivetrain",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": true,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.globecar.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "laika-ecovip",
+    "manufacturer": "Laika",
+    "modelName": "Ecovip",
+    "series": "Ecovip",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2016,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "3.12 SL",
+        "name": "Ecovip 3.12 SL"
+      },
+      {
+        "code": "3.12",
+        "name": "Ecovip 3.12"
+      },
+      {
+        "code": "109",
+        "name": "Ecovip 109"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 22.0,
+        "max": 26.9
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 72000,
+        "max": 130000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.laikacamper.it"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "laika-kosmo",
+    "manufacturer": "Laika",
+    "modelName": "Kosmo",
+    "series": "Kosmo",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2018,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "509",
+        "name": "Kosmo 509"
+      },
+      {
+        "code": "512 SL",
+        "name": "Kosmo 512 SL"
+      },
+      {
+        "code": "609",
+        "name": "Kosmo 609"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 23.3,
+        "max": 25.6
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 82000,
+        "max": 145000
+      },
+      "gvwrLb": {
+        "min": 8818,
+        "max": 11023
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "luxury",
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.laikacamper.it"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "roller-team-kronos",
+    "manufacturer": "Roller Team",
+    "modelName": "Kronos",
+    "series": "Kronos",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2013,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "284 TL",
+        "name": "Kronos 284 TL"
+      },
+      {
+        "code": "295 TL",
+        "name": "Kronos 295 TL"
+      },
+      {
+        "code": "284 M",
+        "name": "Kronos 284 M"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 23.0,
+        "max": 24.9
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 52000,
+        "max": 82000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2013,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.rollerteam.it"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "roller-team-livingstone",
+    "manufacturer": "Roller Team",
+    "modelName": "Livingstone",
+    "series": "Livingstone",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2016,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "5",
+        "name": "Livingstone 5"
+      },
+      {
+        "code": "6",
+        "name": "Livingstone 6"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 20.3,
+        "max": 22.0
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 58000,
+        "max": 95000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.rollerteam.it"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "rimor-europeo",
+    "manufacturer": "Rimor",
+    "modelName": "Europeo",
+    "series": "Europeo",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2015,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "55 Plus",
+        "name": "Europeo 55 Plus"
+      },
+      {
+        "code": "99 Plus",
+        "name": "Europeo 99 Plus"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 22.0,
+        "max": 24.9
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 50000,
+        "max": 80000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.rimor.it"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "hobby-optima",
+    "manufacturer": "Hobby",
+    "modelName": "Optima",
+    "series": "Optima",
+    "vehicleClass": "Semi-Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2016,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "V65 GE",
+        "name": "Optima V65 GE"
+      },
+      {
+        "code": "T70 GE",
+        "name": "Optima T70 GE"
+      },
+      {
+        "code": "T75 HFB",
+        "name": "Optima T75 HFB"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 21.3,
+        "max": 24.7
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 48000,
+        "max": 88000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel"
+      ]
+    },
+    "featureTags": [
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-prep",
+        "label": "Solar Prep",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2016,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.hobby-caravan.de"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "benimar-tessoro",
+    "manufacturer": "Benimar",
+    "modelName": "Tessoro",
+    "series": "Tessoro",
+    "vehicleClass": "Integrated",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2015,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "463",
+        "name": "Tessoro 463"
+      },
+      {
+        "code": "481",
+        "name": "Tessoro 481"
+      },
+      {
+        "code": "490",
+        "name": "Tessoro 490"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.7,
+        "max": 24.0
+      },
+      "sleeping": {
+        "min": 4,
+        "max": 6
+      },
+      "msrpUsd": {
+        "min": 55000,
+        "max": 95000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 8818
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.3L Multijet diesel",
+        "3.0L Multijet V6 diesel"
+      ]
+    },
+    "featureTags": [
+      "integrated",
+      "dry bath",
+      "all-season"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2019,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "dry-bath",
+        "label": "Dry Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2015,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "auto-leveling",
+        "label": "Automatic Leveling",
+        "category": "exterior",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2017,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": false,
+      "everHadDryBath": true,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.benimar.es"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "benimar-mileo",
+    "manufacturer": "Benimar",
+    "modelName": "Mileo",
+    "series": "Mileo",
+    "vehicleClass": "Van Conversion",
+    "bodyType": "Motorized",
+    "regions": [
+      "Europe"
+    ],
+    "production": {
+      "firstModelYear": 2018,
+      "lastModelYear": 2026,
+      "stillInProduction": true,
+      "yearsOffered": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trims": [
+      {
+        "code": "282",
+        "name": "Mileo 282"
+      },
+      {
+        "code": "302",
+        "name": "Mileo 302"
+      }
+    ],
+    "specRange": {
+      "lengthFt": {
+        "min": 19.0,
+        "max": 22.6
+      },
+      "sleeping": {
+        "min": 2,
+        "max": 4
+      },
+      "msrpUsd": {
+        "min": 48000,
+        "max": 72000
+      },
+      "gvwrLb": {
+        "min": 7716,
+        "max": 7716
+      }
+    },
+    "drivetrainOptions": {
+      "fuelTypes": [
+        "Diesel"
+      ],
+      "driveTypes": [
+        "RWD"
+      ],
+      "engineFamilies": [
+        "2.0L OM654 diesel"
+      ]
+    },
+    "featureTags": [
+      "wet bath",
+      "camper van",
+      "compact"
+    ],
+    "optionAvailability": [
+      {
+        "optionKey": "solar-array",
+        "label": "Roof Solar Array",
+        "category": "power",
+        "everOffered": true,
+        "offeredAs": [
+          "optional"
+        ],
+        "standardYears": [],
+        "optionalYears": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "firstOfferedYear": 2020,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      },
+      {
+        "optionKey": "wet-bath",
+        "label": "Wet Bath",
+        "category": "bathroom",
+        "everOffered": true,
+        "offeredAs": [
+          "standard"
+        ],
+        "standardYears": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "optionalYears": [],
+        "firstOfferedYear": 2018,
+        "lastOfferedYear": 2026,
+        "offeredTrims": [],
+        "regions": [
+          "Europe"
+        ],
+        "requiredPackageKeys": [],
+        "incompatibleOptionKeys": []
+      }
+    ],
+    "derivedFlags": {
+      "everHadSolar": true,
+      "everHadWetBath": true,
+      "everHadDryBath": false,
+      "everHadAwdOr4x4": false,
+      "everHadWasherDryerPrep": false
+    },
+    "sources": [
+      "https://www.benimar.es"
+    ],
+    "updatedAt": "2026-04-06T00:00:00.000Z"
   }
 ]
